@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @F-Wolf-ISAS and I’m based in Berlin in Germany.
 - 👀 I’m interested in learning coding or software development in general.
-- 🌱 I’m currently learning Python on Coursera
+- 🌱 I’m currently learning Python on Coursera.
 - 💞️ I’m looking to collaborate on ... I think my coding skills are not yet on a level to collaborate at all. Hopefully this changes soon ...
 - 📫 How to reach me: ...
 
